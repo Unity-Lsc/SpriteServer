@@ -15,3 +15,4 @@ G:\Server\SpriteServer\SpriteServer.Model\obj\Debug\net8.0\SpriteServer.Model.dl
 G:\Server\SpriteServer\SpriteServer.Model\obj\Debug\net8.0\refint\SpriteServer.Model.dll
 G:\Server\SpriteServer\SpriteServer.Model\obj\Debug\net8.0\SpriteServer.Model.pdb
 G:\Server\SpriteServer\SpriteServer.Model\obj\Debug\net8.0\ref\SpriteServer.Model.dll
+G:\Server\SpriteServer\SpriteServer.Model\obj\Debug\net8.0\SpriteServer.Model.sourcelink.json

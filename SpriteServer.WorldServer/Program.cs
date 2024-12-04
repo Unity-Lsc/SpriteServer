@@ -1,5 +1,4 @@
-﻿using SpriteServer.Model.DBModels;
-using SpriteServer.Model.Entitys;
+﻿using SpriteServer.Model.Test;
 
 namespace SpriteServer.WorldServer
 {
@@ -10,14 +9,7 @@ namespace SpriteServer.WorldServer
 
             Console.WriteLine("中心服务器 启动...");
 
-            RoleDBModel model = new RoleDBModel();
-            var entity = new RoleEntity();
-            entity.SFId = 1;
-            entity.NickName = "LSC";
-            entity.Level = 1;
-            entity.CreateTime = DateTime.Now;
-            entity.UpdateTime = DateTime.Now;
-            model.Add(entity);
+            TestMongoDB.TestAdd();
 
             Console.ReadLine();
         }

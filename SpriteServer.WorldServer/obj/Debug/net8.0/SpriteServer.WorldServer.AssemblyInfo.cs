@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpriteServer.WorldServer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+916ec026b0c9a2e203793ce7b8a8ebfbcf9e3d49")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpriteServer.WorldServer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpriteServer.WorldServer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -10,3 +10,4 @@ G:\Server\SpriteServer\SpriteServer.Core\obj\Debug\net8.0\refint\SpriteServer.Co
 G:\Server\SpriteServer\SpriteServer.Core\obj\Debug\net8.0\SpriteServer.Core.pdb
 G:\Server\SpriteServer\SpriteServer.Core\obj\Debug\net8.0\ref\SpriteServer.Core.dll
 G:\Server\SpriteServer\SpriteServer.Core\obj\Debug\net8.0\SpriteServer.Core.csproj.AssemblyReference.cache
+G:\Server\SpriteServer\SpriteServer.Core\obj\Debug\net8.0\SpriteServer.Core.sourcelink.json

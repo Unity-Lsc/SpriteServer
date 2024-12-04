@@ -11,4 +11,9 @@
     <ProjectReference Include="..\SpriteServer.CSRedis\SpriteServer.CSRedis.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="DataTable\" />
+    <Folder Include="Proto\" />
+  </ItemGroup>
+
 </Project>

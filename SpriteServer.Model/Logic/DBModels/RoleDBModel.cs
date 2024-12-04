@@ -1,8 +1,8 @@
 ﻿using MongoDB.Driver;
 using SpriteServer.Core.SFMongoDB;
-using SpriteServer.Model.Entitys;
+using SpriteServer.Model.Logic.Entitys;
 
-namespace SpriteServer.Model.DBModels
+namespace SpriteServer.Model.Logic.DBModels
 {
     /// <summary>
     /// 角色的数据管理

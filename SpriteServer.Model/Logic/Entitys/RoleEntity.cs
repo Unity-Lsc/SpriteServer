@@ -1,6 +1,6 @@
 ﻿using SpriteServer.Core.SFMongoDB;
 
-namespace SpriteServer.Model.Entitys
+namespace SpriteServer.Model.Logic.Entitys
 {
     /// <summary>
     /// 角色实体
