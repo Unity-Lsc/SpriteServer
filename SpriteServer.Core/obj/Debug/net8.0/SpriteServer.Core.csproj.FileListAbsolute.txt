@@ -1,0 +1,12 @@
+G:\Server\SpriteServer\SpriteServer.Core\bin\Debug\net8.0\SpriteServer.Core.deps.json
+G:\Server\SpriteServer\SpriteServer.Core\bin\Debug\net8.0\SpriteServer.Core.dll
+G:\Server\SpriteServer\SpriteServer.Core\bin\Debug\net8.0\SpriteServer.Core.pdb
+G:\Server\SpriteServer\SpriteServer.Core\obj\Debug\net8.0\SpriteServer.Core.GeneratedMSBuildEditorConfig.editorconfig
+G:\Server\SpriteServer\SpriteServer.Core\obj\Debug\net8.0\SpriteServer.Core.AssemblyInfoInputs.cache
+G:\Server\SpriteServer\SpriteServer.Core\obj\Debug\net8.0\SpriteServer.Core.AssemblyInfo.cs
+G:\Server\SpriteServer\SpriteServer.Core\obj\Debug\net8.0\SpriteServer.Core.csproj.CoreCompileInputs.cache
+G:\Server\SpriteServer\SpriteServer.Core\obj\Debug\net8.0\SpriteServer.Core.dll
+G:\Server\SpriteServer\SpriteServer.Core\obj\Debug\net8.0\refint\SpriteServer.Core.dll
+G:\Server\SpriteServer\SpriteServer.Core\obj\Debug\net8.0\SpriteServer.Core.pdb
+G:\Server\SpriteServer\SpriteServer.Core\obj\Debug\net8.0\ref\SpriteServer.Core.dll
+G:\Server\SpriteServer\SpriteServer.Core\obj\Debug\net8.0\SpriteServer.Core.csproj.AssemblyReference.cache

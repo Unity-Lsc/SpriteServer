@@ -1,0 +1,17 @@
+G:\Server\SpriteServer\SpriteServer.Model\bin\Debug\net8.0\SpriteServer.Model.deps.json
+G:\Server\SpriteServer\SpriteServer.Model\bin\Debug\net8.0\SpriteServer.Model.dll
+G:\Server\SpriteServer\SpriteServer.Model\bin\Debug\net8.0\SpriteServer.Model.pdb
+G:\Server\SpriteServer\SpriteServer.Model\bin\Debug\net8.0\SpriteServer.Core.dll
+G:\Server\SpriteServer\SpriteServer.Model\bin\Debug\net8.0\SpriteServer.CSRedis.dll
+G:\Server\SpriteServer\SpriteServer.Model\bin\Debug\net8.0\SpriteServer.Core.pdb
+G:\Server\SpriteServer\SpriteServer.Model\bin\Debug\net8.0\SpriteServer.CSRedis.pdb
+G:\Server\SpriteServer\SpriteServer.Model\obj\Debug\net8.0\SpriteServer.Model.csproj.AssemblyReference.cache
+G:\Server\SpriteServer\SpriteServer.Model\obj\Debug\net8.0\SpriteServer.Model.GeneratedMSBuildEditorConfig.editorconfig
+G:\Server\SpriteServer\SpriteServer.Model\obj\Debug\net8.0\SpriteServer.Model.AssemblyInfoInputs.cache
+G:\Server\SpriteServer\SpriteServer.Model\obj\Debug\net8.0\SpriteServer.Model.AssemblyInfo.cs
+G:\Server\SpriteServer\SpriteServer.Model\obj\Debug\net8.0\SpriteServer.Model.csproj.CoreCompileInputs.cache
+G:\Server\SpriteServer\SpriteServer.Model\obj\Debug\net8.0\SpriteSe.997D8B7F.Up2Date
+G:\Server\SpriteServer\SpriteServer.Model\obj\Debug\net8.0\SpriteServer.Model.dll
+G:\Server\SpriteServer\SpriteServer.Model\obj\Debug\net8.0\refint\SpriteServer.Model.dll
+G:\Server\SpriteServer\SpriteServer.Model\obj\Debug\net8.0\SpriteServer.Model.pdb
+G:\Server\SpriteServer\SpriteServer.Model\obj\Debug\net8.0\ref\SpriteServer.Model.dll

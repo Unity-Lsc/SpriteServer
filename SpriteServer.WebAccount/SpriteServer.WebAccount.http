@@ -1,0 +1,6 @@
+@SpriteServer.WebAccount_HostAddress = http://localhost:5162
+
+GET {{SpriteServer.WebAccount_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

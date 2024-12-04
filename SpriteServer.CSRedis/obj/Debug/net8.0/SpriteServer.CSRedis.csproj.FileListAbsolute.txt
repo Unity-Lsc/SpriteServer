@@ -1,0 +1,11 @@
+G:\Server\SpriteServer\SpriteServer.CSRedis\bin\Debug\net8.0\SpriteServer.CSRedis.deps.json
+G:\Server\SpriteServer\SpriteServer.CSRedis\bin\Debug\net8.0\SpriteServer.CSRedis.dll
+G:\Server\SpriteServer\SpriteServer.CSRedis\bin\Debug\net8.0\SpriteServer.CSRedis.pdb
+G:\Server\SpriteServer\SpriteServer.CSRedis\obj\Debug\net8.0\SpriteServer.CSRedis.GeneratedMSBuildEditorConfig.editorconfig
+G:\Server\SpriteServer\SpriteServer.CSRedis\obj\Debug\net8.0\SpriteServer.CSRedis.AssemblyInfoInputs.cache
+G:\Server\SpriteServer\SpriteServer.CSRedis\obj\Debug\net8.0\SpriteServer.CSRedis.AssemblyInfo.cs
+G:\Server\SpriteServer\SpriteServer.CSRedis\obj\Debug\net8.0\SpriteServer.CSRedis.csproj.CoreCompileInputs.cache
+G:\Server\SpriteServer\SpriteServer.CSRedis\obj\Debug\net8.0\SpriteServer.CSRedis.dll
+G:\Server\SpriteServer\SpriteServer.CSRedis\obj\Debug\net8.0\refint\SpriteServer.CSRedis.dll
+G:\Server\SpriteServer\SpriteServer.CSRedis\obj\Debug\net8.0\SpriteServer.CSRedis.pdb
+G:\Server\SpriteServer\SpriteServer.CSRedis\obj\Debug\net8.0\ref\SpriteServer.CSRedis.dll
