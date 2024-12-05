@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpriteServer.Model")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+916ec026b0c9a2e203793ce7b8a8ebfbcf9e3d49")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90c9e1d0be3aa183eb167d3ec02f0c02fdf43864")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpriteServer.Model")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpriteServer.Model")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

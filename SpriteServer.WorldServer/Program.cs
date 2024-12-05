@@ -9,7 +9,7 @@ namespace SpriteServer.WorldServer
 
             Console.WriteLine("中心服务器 启动...");
 
-            TestMongoDB.TestAdd();
+            TestMongoDB.TestSearch();
 
             Console.ReadLine();
         }
